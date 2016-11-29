@@ -1,7 +1,7 @@
 # Random graphs with Erdos-Renyi
 
 Este código programado con el lenguaje de programación R tiene como finalidad demostrar el comportamiento del modelo anteriormente
-mencionado y comparar con otros modelos (como el modelo de Barabási, Watts-Strogatz, etc). Además de modelar un "grado internet" con
+mencionado y comparar con otros modelos (como el modelo de Barabási, Watts-Strogatz, etc). Además de modelar un "grafo internet" con
 la finalidad de estudiar el fenómeno. 
 
 @ Return: el programa retorna 6 gráficas y resultantes en consola.
