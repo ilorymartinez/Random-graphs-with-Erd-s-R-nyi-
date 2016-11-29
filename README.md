@@ -5,6 +5,7 @@ mencionado y comparar con otros modelos (como el modelo de Barabási, Watts-Stro
 la finalidad de estudiar el fenómeno. 
 
 @ Return: el programa retorna 6 gráficas y resultantes en consola.
+
           1. Modelo genérico de un grafo generado con Erdos-Renyi.
           2. Distribución de grado de un grafo Erdos-Renyi.
           3. Representación del camino más largo / vértice con mayor grado de distribución.
